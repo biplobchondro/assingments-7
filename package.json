@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "react-toastify": "^11.0.5",
+    "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "daisyui": "^5.1.23"
+  }
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Bug in login module",
+    "description": "Users unable to login with correct credentials.",
+    "customer": "Acme Corp",
+    "priority": "HIGH",
+    "status": "🟢 Open",
+    "createdAt": "2025-09-10"
+  },
+  {
+    "id": 2,
+    "title": "Checkout page crash",
+    "description": "System crashes when user tries to complete payment.",
+    "customer": "Beta Ltd",
+    "priority": "LOW",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-04-30"
+  },
+  {
+    "id": 3,
+    "title": "Search results incorrect",
+    "description": "Search returns irrelevant items.",
+    "customer": "Gamma Inc",
+    "priority": "MEDIUM",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 4,
+    "title": "UI layout breaks on tablet",
+    "description": "Navigation overlaps with content on iPad.",
+    "customer": "Delta Group",
+    "priority": "LOW",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-09-13"
+  },
+  {
+    "id": 5,
+    "title": "Missing invoices",
+    "description": "Customers report missing historical invoices.",
+    "customer": "Epsilon LLC",
+    "priority": "HIGH",
+    "status": "🟢 Open",
+    "createdAt": "2025-09-08"
+  },
+  {
+    "id": 6,
+    "title": "Slow API response",
+    "description": "API latency spikes to over 3 seconds.",
+    "customer": "Zeta Solutions",
+    "priority": "MEDIUM",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": 7,
+    "title": "Incorrect tax calculation",
+    "description": "Tax not applied correctly for EU customers.",
+    "customer": "Eta Networks",
+    "priority": "HIGH",
+    "status": "🟢 Open",
+    "createdAt": "2025-07-16"
+  },
+  {
+    "id": 8,
+    "title": "Notification emails not sent",
+    "description": "System not sending confirmation emails.",
+    "customer": "Theta Enterprises",
+    "priority": "HIGH",
+    "status": "🟢 Open",
+    "createdAt": "2025-03-17"
+  },
+  {
+    "id": 9,
+    "title": "File upload limit issue",
+    "description": "Users can't upload files larger than 5MB.",
+    "customer": "Iota Systems",
+    "priority": "LOW",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-04-18"
+  },
+  {
+    "id": 10,
+    "title": "Dashboard not updating",
+    "description": "Analytics dashboard not reflecting recent data.",
+    "customer": "Kappa Tech",
+    "priority": "HIGH",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-02-19"
+  },
+  {
+    "id": 11,
+    "title": "403 error on settings page",
+    "description": "Access denied error for valid users.",
+    "customer": "Lambda Co",
+    "priority": "MEDIUM",
+    "status": "🟢 Open",
+    "createdAt": "2025-08-20"
+  },
+  {
+    "id": 12,
+    "title": "User roles not applied",
+    "description": "Permissions not updating after role change.",
+    "customer": "Mu Digital",
+    "priority": "HIGH",
+    "status": "🟢 Open",
+    "createdAt": "2025-09-11"
+  },
+  {
+    "id": 13,
+    "title": "Dark mode not saving",
+    "description": "Theme resets on page reload.",
+    "customer": "Nu Innovations",
+    "priority": "LOW",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-05-22"
+  },
+  {
+    "id": 14,
+    "title": "Session expires too early",
+    "description": "User session times out after 5 minutes of inactivity.",
+    "customer": "Omicron Tech",
+    "priority": "MEDIUM",
+    "status": "🟢 Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 15,
+    "title": "Password reset loop",
+    "description": "User gets stuck in reset password loop.",
+    "customer": "Pi Group",
+    "priority": "MEDIUM",
+    "status": "🟡 In-Progress",
+    "createdAt": "2025-07-24"
+  }
+]
